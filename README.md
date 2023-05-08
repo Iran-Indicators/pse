@@ -4,7 +4,7 @@ _v. 1_
 =====================
 
 #### Description
-HEIS is a Stata package for downloading and cleaning the Iranian household expenditure and income survey. Moreover, This package saves the tables of the dataset in _dta_ format. For now, the dataset of 1394 is not available yet, but 1381-1400 are available.
+It is a package to standardize the Persian/Arabic letters encoding.
 
 #### Installation
 To install the package first you need to install "github" package:
