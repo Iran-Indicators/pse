@@ -1,0 +1,8 @@
+v 1.0.0
+d Materials by Ali Bahrami Sani, Ali Naghizadeh
+d Ali.Bahrami.Sani@gmail.com, ali_naghizadeh@yahoo.com
+d https://github.com/Iran-Indicators/pse
+
+d 'pse': A package to standardize the Persian/Arabic letters encoding.
+
+p pse

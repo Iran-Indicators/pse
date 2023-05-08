@@ -1,0 +1,10 @@
+v 1.0.0
+d 'PSE': pse
+d 
+d A package to standardize the Persian/Arabic letters encoding.
+d 
+d Distribution-Date:   20230508
+d License: Academic Free License v3.0
+d 
+F pse.ado
+f pse.sthlp
