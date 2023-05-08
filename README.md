@@ -16,7 +16,7 @@ Next, to download and install the "pse" package:
 github install Iran-Indicators/pse
 ```
 #### Quick Start
-Just write the name of your persian/arabic string variable afte the `pse'"
+Just write the name of your persian/arabic string variable afte the _pse_"
 ```
 pse varname(string)
 ```
