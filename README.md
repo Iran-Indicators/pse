@@ -1,6 +1,6 @@
 _v. 1_  
 
-`PSE/Arabic` : Persian/Arabic String Encoding
+`PSE` : Persian/Arabic String Encoding
 =====================
 
 #### Description
