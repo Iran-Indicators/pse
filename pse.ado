@@ -1,5 +1,5 @@
 program pse, rclass
-	version 17
+// 	version 17
 	syntax varlist
 
 	return local varlist `varlist'
